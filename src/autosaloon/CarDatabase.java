@@ -12,7 +12,7 @@ public class CarDatabase {
      */
     public void addCars(int count) {
         //  cars = new ....
-        for (int i=0; i<count; count++){
+        for (int i=0; i<count; i++){
             //nacti od uzivatele rok vyroby, pocet najetych km, barvu a stav auta
             //vytvor instanci auta - nutno upravit i tridu Car, chceme instanci nastavit atributy na nactene hodnoty od uzivatele
             //pridej auto do pole aut
