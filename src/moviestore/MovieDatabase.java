@@ -11,7 +11,7 @@ public class MovieDatabase {
      */
     public void addMovies(int count) {
         //movies = new ....
-        for (int i=0; i<count; count++){
+        for (int i=0; i<count; i++){
             //nacti od uzivatele nazev, rok natoceni, delku filmu a zanr
             //pridej film do pole filmu
         }
